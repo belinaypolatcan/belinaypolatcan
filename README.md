@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belinaypolatcan&label=Profile%20views&color=0e75b6&style=flat" alt="belinaypolatcan" /> </p>
 
-- 🌱 I’m currently learning **Spring Framework**
+- 🌱 I’m currently learning **.Net Core**
 
 - 📫 How to reach me **blnypltcn@gmail.com**
 
